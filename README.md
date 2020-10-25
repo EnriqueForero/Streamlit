@@ -1,5 +1,7 @@
 # Sentiment Analysis on Tweets about US Airlines. Deployed on Streamlit
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/enriqueforero/streamlit/main/app.py)
+
 This project is a machine learning and data-driven web apps made using Streamlit. 
 The goal of this project is to visualize various sentiment and exploratory analysis on tweets about US airlines. 
 View this app in action <a href="https://share.streamlit.io/enriqueforero/streamlit/main/app.py" target="_blank">here</a>.
